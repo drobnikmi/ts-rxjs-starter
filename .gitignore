@@ -1,0 +1,11 @@
+/dist
+
+/node_modules
+
+.history/*
+/.sass-cache
+
+npm-debug.log
+yarn-error.log
+yarn.lock
+
